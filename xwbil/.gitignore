@@ -1,9 +1,4 @@
 # ignore everything except .gitignore and folders that I care about:
 *
-!master*
-!grid*
-!mono*
-!xwtri*
-!xwbir*
-!xwbil*
+!*.csv
 !.gitignore
